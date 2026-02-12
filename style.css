@@ -4,7 +4,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
-  padding-left: 20px;
+  padding-left: 100px;
   padding-right: 20px;
 }
 
@@ -14,7 +14,7 @@ header {
     display: flex;
     justify-content: right; /* WICHTIG */
     align-items: center;
-    padding-right: 20px;
+    padding-right: 100px;
 
 }
 
