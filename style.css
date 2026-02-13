@@ -30,7 +30,7 @@ header a {
 
 header a:hover {
 transform: translateY(-2px);
-color: rgb(105, 230, 230);
+color: rgb(124, 233, 233);
 }
 
 .left {
@@ -45,5 +45,15 @@ color: rgb(105, 230, 230);
     display: flex;
     justify-content: center;
     padding-bottom:50px ;
+    font-size: 40px;
+    
+}
+
+.con {
+
+    display: flex;
+    justify-content: center;
+    padding-bottom:50px ;
+    font-size: 30px;
     
 }
