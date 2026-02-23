@@ -57,3 +57,11 @@ color: rgb(124, 233, 233);
     font-size: 30px;
     
 }
+
+
+.con-padding {
+    padding: 0px 150px;
+    display: flex;
+    text-align: center;
+    margin-bottom: 100px;
+}
