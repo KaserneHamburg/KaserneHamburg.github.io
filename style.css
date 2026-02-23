@@ -42,8 +42,8 @@ color: rgb(124, 233, 233);
 
 .uberschrift {
 
-    display: flex;
-    justify-content: center;
+    display: flex !important;
+    justify-content: center !important;
     padding-bottom:50px ;
     font-size: 40px;
     
@@ -60,8 +60,43 @@ color: rgb(124, 233, 233);
 
 
 .con-padding {
-    padding: 0px 150px;
+    padding: 0px 200px;
     display: flex;
     text-align: center;
     margin-bottom: 100px;
+    line-height: 170%;
 }
+
+.red {
+
+color: rgb(255, 0, 0);
+}
+    
+.gelb{
+    color: rgb(238, 255, 0);
+}
+.lila{
+    color: rgb(171, 80, 255);
+}
+
+.blau{
+    color: rgb(101, 183, 255);
+}
+
+.grün{
+    color: rgb(16, 189, 0);
+}
+
+.beg{
+    color: burlywood;
+}
+
+.magenta{
+    color: rgb(255, 0, 255);
+}
+
+.orange{
+   color: orange;
+}
+
+
