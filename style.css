@@ -5,8 +5,7 @@ body {
   font-optical-sizing: auto;
   font-style: normal;
   color: white;
-background: radial-gradient(circle at top, #15192b 0, #05060a 55%);
-
+  background: radial-gradient(circle at top, #15192b 0, #05060a 55%);
   margin: 0;
   min-height: 100vh;
 
@@ -23,20 +22,18 @@ header {
     padding-right: 50px;
     align-items: center;
     padding-right: 100px;
-   
 }
 
 
 
 header a {
-
     color: rgb(138, 202, 202);
-    padding-left: 50px;
+    padding-left: 40px;
 }
 
 header a:hover {
-transform: translateY(-2px);
-color: rgb(124, 233, 233);
+    transform: translateY(-2px);
+    color: rgb(124, 233, 233);
 }
 
 .left {
@@ -47,22 +44,18 @@ color: rgb(124, 233, 233);
 }
 
 .uberschrift {
-
     display: flex !important;
     justify-content: center !important;
     padding-bottom:50px ;
     font-size: 40px;
-     padding-left: 50px;
+    padding-left: 50px;
     padding-right: 50px;
 }
 
 .con {
-
-
     justify-content: center;
     padding-bottom:50px ;
     font-size: 30px;
-    
 }
 
 
@@ -73,55 +66,30 @@ color: rgb(124, 233, 233);
     line-height: 170%;
     padding-left: 15px;
     padding-right: 15px;
-   
 }
 
-.red {
-
-color: rgb(255, 0, 0);
-}
+.red {color: rgb(255, 0, 0);}
     
-.gelb{
-    color: rgb(238, 255, 0);
-}
-.lila{
-    color: rgb(171, 80, 255);
-}
+.gelb{color: rgb(238, 255, 0);}
 
-.blau{
-    color: rgb(101, 183, 255);
-}
+.lila{color: rgb(171, 80, 255);}
 
-.grün{
-    color: rgb(16, 189, 0);
-}
+.blau{color: rgb(101, 183, 255);}
 
-.beg{
-    color: burlywood;
-}
+.grün{color: rgb(16, 189, 0);}
 
-.magenta{
-    color: rgb(255, 0, 255);
-}
+.beg{color: burlywood;}
 
-.orange{
-   color: orange;
-}
+.magenta{color: rgb(255, 0, 255);}
 
-.red2{
-color: rgb(250, 93, 93);
-}
+.orange{color: orange;}
 
-.grau{
-    color: rgb(180, 180, 180);
-}
+.red2{color: rgb(250, 93, 93);}
 
-.gelb2{
-    color: rgb(255, 207, 48);
-}
+.grau{color: rgb(180, 180, 180);}
 
-.lila2{
-    color: rgb(111, 74, 153);
-}
+.gelb2{color: rgb(255, 207, 48);}
+
+.lila2{color: rgb(111, 74, 153);}
 
 
